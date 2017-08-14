@@ -153,13 +153,13 @@
 
 ---
 
-## มันคืออะไร?
+## ทำไมต้องใช้?
 
 เมื่อผมเริ่มต้นโครงการนี้ ผมไม่รู้เลยว่ากองซ้อนจากฮีป ไม่รู้อะไรเลยเกี่ยวกับ Big-O หรืออะไรเกี่ยวกับต้นไม้ หรือการแวะผ่านต้นไม้ทำอย่างไร ถ้าผมมีโค้ดระเบียบวิธีการเรียงลำดับ (Sorting algorithm) ผมไม่สามารถบอกได้ว่ามันดีที่สุด โครงสร้างข้อมูลทุกแบบที่ผมเคยใช้อยู่ในภาษาโปรแกรม และผมไม่รู้เลยว่าที่จริงแล้วมันทำงานอย่างไร ผมไม่เคยจัดการหน่วยความจำจนกะทั่งเจอความผิดพลาดว่า "out of memory" และผมก็หาวิธีการที่จะแก้ไขมันแค่ขัดตาทัพไปก่อน ผมใช้แถวลำดับ (Array) หลายมินิเพียงเล็กน้อยในชีวิตของผมและใช้แถวลำดับแบบจับคู่ (Associative arrays) มากมาย แต่ผมไม่เคยที่จะสร้างโครงสร้างข้อมูลจากเริ่มต้น
 
 มันเป็นการงางแผนที่ยาวนาน มันอาจจะใช้เวลาของคุณเป็นเดือน ถ้าคุณคุ้นเคยกับสิ่งที่จะเรียนรู้นี้บ้างแล้วคุณอาจจะใช้เวลาของคุณน้อยลง
 
-## ใช้มันอย่างไร
+## ใช้อย่างไร?
 
 ทุกสิ่งทุกอย่างด้านล่างนี้คือเค้าโครง และคุณอาจจะต้องเรียนรู้มันในแต่ล่ะหัวข้อจากบนลงล่าง
 
@@ -188,84 +188,84 @@
 
 [เครื่องหมายพิเศษของ Github เพิ่มเติม](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Don't feel you aren't smart enough
-- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+## ห้ามรู้สึกว่าคุณไม่ฉลาดพอ
+- วิศวกรซอฟต์แวร์ที่ประสบความสำเร็จเป็นคนที่ฉลาด แต่มีหลายคนที่ไม่มั่นใจว่าพวกเขานั้นไม่ฉลาดพอ
+- [ตำนานของโปรแกรมเมอร์ที่ชาญฉลาด](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [มันอันตรายมากที่จะไปเพียงคนเดียว: การต่อสู้กับปีศาจร้ายที่มองไม่เห็นในวงการเทคโนโลยี](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-## About Video Resources
+## เกี่ยวกับแหล่งที่มาของวีดีโอ
 
-Some videos are available only by enrolling in a Coursera, EdX, or Lynda.com class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access. Lynda.com courses are not free.
+บางวีดีโอใช้ได้ด้วยการลงทะเบียนเรียนในบทเรียนของ Coursera, Edx หรือ Lynda.com ทั้งหมดนี้เรียกว่า MOOCs 
+บางครั้งบทเรียนอาจจะยังไม่เปิดให้เรียนตลอดเวลา คุณอาจจะต้องรอสักพักเพื่อให้บทเรียนนั้นเปิดสอน และคุณจะไม่สามารถเข้าถึงแบบฟรีได้สำหรับ Lynda.com
 
-    I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
-    I like using university lectures.
+    ผมเห็นคุณค่ามากสำหรับคุณที่ช่วยเพิ่มแหล่งข้อมูลที่ฟรีและใช้ใด้ตลอดเวลา อย่างเช่นวีดีโอใน YouTube ที่มาพร้อมกับหลักสูตรออนไลน์
+    ผมชอบที่ใช้การบรรยายของมหาวิทยาลัย
 
 
-## Interview Process & General Interview Prep
+## กระบวนการการสัมภาษณ์และการเตรียมตัว
 
 - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [ ] กะเทาะวิธีการสัมภาษณ์งานด้วยการเขียนโปรแกรม ชุด 1:
+    - [ ] [Gayle L McDowell - Cracking The Coding Interview (วีดีโอ)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (วีดีโอ)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+- [ ] ทำอย่างไรให้ได้งานใน 4 บริษัทยักษ์ใหญ่:
+    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (วีดีโอ)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
-- [ ] Prep Course:
+- [ ] หลักสูตรในการเตรียมตัว:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
 
-## Pick One Language for the Interview
+## เลือกภาษาสำหรับการสัมภาษณ์
 
-You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
+คุณสามารถใช้ภาษาที่คุณคุ้นเคยในการส่วนของการเขียนโค้ดสำหรับการสัมภาษณ์ แต่สำหรับบริษัทใหญ่ๆ แล้วทางเลือกที่ดีควรจะเป็น:
 
 - C++
 - Java
 - Python
 
-You could also use these, but read around first. There may be caveats:
+คูณควรจะเลือกภาษาดังที่กกล่าวมาก่อน แต่ก็อาจจะใช้ภาษาเหล่านี้ได้ แต่ก็ควรระวัง:
 
 - JavaScript
 - Ruby
 
-You need to be very comfortable in the language and be knowledgeable.
+คุณจำเป็นต้องใช้ภาษาและความรู้ที่คุณคุ้นเคยและมั่นใจที่สุด
 
-Read more about choices:
+อ่านเพิ่มเติมเกี่ยวกับการเลือกภาษา:
 - http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
 - http://blog.codingforinterviews.com/best-programming-language-jobs/
 
-[See language resources here](programming-language-resources.md)
+[ดูแหน่งข้อมูลของภาษที่นี่](programming-language-resources.md)
 
-You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
+คุณจะเห็นบางการเรียนรู้ของภาษา C C++ และ Python ข้างล่างนี้ เพราะว่าผมกำลังเรียนรู้ มีหนังสือสองสามเล่มที่เกี่ยวข้อง ดูในส่วนล่างสุด
 
-## Book List
+## รายชื่อหนังสือ
 
-This is a shorter list than what I used. This is abbreviated to save you time.
+รายการสั่นๆ ของหนังสือที่ผมใช้ดังนี้ มันอาจจะทำให้คุณประหยัดเวลาในการหาหนังสือได้
 
-### Interview Prep
+### การเตรียมตัวสำหรับการสัมภาษณ์
 
 - [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
-    - answers in C++ and Java
-    - this is a good warm-up for Cracking the Coding Interview
-    - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
+    - คำตอบเป็นภาษา C++ และ Java
+    - หนังสือเล่มนี้เป็นการอุ่นเครื่องที่ดีสำหรับการสัมภาษณ์ด้วยการเขียนโปรแกรม
+    - ไม่ยากจนเกินไป ปัญหาส่วนใหญ่อาจจะง่ายกว่าที่จะเจอในการสัมภาษณ์ (จากสิ่งที่ผมอ่าน)
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-    - answers in Java
+    - คำตอบเป็นภาษา Java
 
-If you have tons of extra time:
+ถ้าคุณมีเวลาเหลืออาจจะอ่านเพิ่มเติม:
 
 - [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 - [ ] [Elements of Programming Interviews (Java version)](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
 
-### Computer Architecture
+### สถาปัตยกรรมคอมพิวเตอร์
 
-If short on time:
+ใช้เวลาอ่านไม่มาก:
 
 - [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
-    - The book was published in 2004, and is somewhat outdated, but it's a terrific resource for understanding a computer in brief.
-    - The author invented HLA, so take mentions and examples in HLA with a grain of salt. Not widely used, but decent examples of what assembly looks like.
-    - These chapters are worth the read to give you a nice foundation:
+    - หนังสือเล่มนี้พิมพ์ในปี 2004 และอาจจะล้าสมัยไปแล้ว แต่เป็นแหล่งข้อมูลที่ดีสำหรับการทำความเข้าใจระบบคอมพิวเตอร์
+    - ผู้แต่งเป็นผู้ประดิษฐ์ HLA (High-Level Architecture) ซึ่งจะกล่าวถึงและยกตัวอย่างของ HLA ในหนังสือเล่มนี้ oyd แต่เป็นตัวอย่างที่เหมาะสมสำหรับอธิบาภาษา assembly
+    - บทต่างๆ คุ้มค่าสำหรับการอ่านเพื่อที่จะปูพื้นฐานของสถาปัตยกรรมคอมพิวเตอร์:
         - Chapter 2 - Numeric Representation
         - Chapter 3 - Binary Arithmetic and Bit Operations
         - Chapter 4 - Floating-Point Representation
@@ -276,10 +276,10 @@ If short on time:
         - Chapter 10 - Instruction Set Architecture
         - Chapter 11 - Memory Architecture and Organization
 
-If you have more time (I want this book):
+ถ้าคุณมีเวลาเหลืออาจจะอ่านเพิ่มเติม:
 
 - [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
-    - For a richer, more up-to-date (2011), but longer treatment
+    - มีข้อมูลมากมายขึ้น และทันสมัย (2011) แต่อาจจะต้องใช้เวลามากในการอ่าน
 
 ### Language Specific
 
